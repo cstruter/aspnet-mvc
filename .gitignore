@@ -243,3 +243,7 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/CSTruter.MVC/Content
+/CSTruter.MVC/Scripts
+/CSTruter.MVC/Utility
+/CSTruter.MVC/Views/Shared/EditorTemplates
